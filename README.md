@@ -1,7 +1,7 @@
 # Full Stack Developer Learning Resources
 
 ## Editor
-* Sublime 3: <a href="https://www.sublimetext.com/3" target="blank">Webpage</a>
+* Sublime 3: <a href="https://www.sublimetext.com/3" target="_blank">Webpage</a>
 * VS Code: [Webpage](https://code.visualstudio.com/), [Requirement](https://code.visualstudio.com/docs/supporting/requirements)
 
 ## Front-end:
