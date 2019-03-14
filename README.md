@@ -1,8 +1,8 @@
 # Full Stack Developer Learning Resources
 
 ## Editor
-* Sublime 3: ![Webpage](https://www.sublimetext.com/3)
-* VS Code: ![Webpage](https://code.visualstudio.com/) ![Requirement](https://code.visualstudio.com/docs/supporting/requirements)
+* Sublime 3: [Webpage](https://www.sublimetext.com/3)
+* VS Code: [Webpage](https://code.visualstudio.com/) [Requirement](https://code.visualstudio.com/docs/supporting/requirements)
 
 ## Front-end:
 * Vue.JS: ![Documentation](https://vuejs.org/) ![Tutorial(Vue Mastery)](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance) ![Tutorial(Academind)](https://www.youtube.com/watch?v=kskV1q4iokk&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) ![Tutorial(egghead)](https://egghead.io/courses/develop-basic-web-apps-with-vue-js)
