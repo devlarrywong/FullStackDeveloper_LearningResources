@@ -26,10 +26,10 @@
 
 
 ## Database:
-MySQL: [Documentation]()
-PostgreSQL: [Documentation]()
-MongoDB: [Documentation]()
-Redis: [Documentation]()
+* MySQL: [Documentation](https://www.mysql.com/)
+* PostgreSQL: [Documentation](https://www.postgresql.org/)
+* MongoDB: [Documentation](https://www.mongodb.com/)
+* Redis: [Documentation](https://redis.io/)
 
 ## Data Pipeline:
 Airflow: [Documentation](https://airflow.apache.org/), [Intro Video](https://www.youtube.com/watch?v=AHMm1wfGuHE)
